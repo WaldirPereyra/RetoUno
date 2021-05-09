@@ -10,8 +10,7 @@
 <p align="justify">La nube es una red mundial de servidores que te permite almacenar y administrar datos, ejecutar aplicaciones o proveer un conjunto de servicios informáticos a través de Internet (servidores, almacenamiento, base de datos, redes, software, análisis e inteligencia).</p>
 
 ### Ventajas de la nube
-
-* __Confiabilidad__: <p align="justify"> La empresa (según el servicio que elija), se encarga de mantener el servicio de manera continua a pesar de que se produzcan errores.</p>
+* __Confiabilidad__: La empresa (según el servicio que elija), se encarga de mantener el servicio de manera continua a pesar de que se produzcan errores.
 * __Escabilidad__: Te permite aumentar la capacidad conforme el sistema lo requiera.
 	* Vertical: Lo que normalmente supondría aumentar la capacidad de hardware (de un solo nodo), en este caso requeriría aumentar RAM o CPU adicionales a una maquina virtual.
 	* Horizontal: Escalar horizontalmente el sistema, implicaría agregar servidores (nodos) que trabajen como uno mismo, pero en este caso, solo sería necesario aumentar instancias de un recurso, como máquinas virtuales en la configuración.
