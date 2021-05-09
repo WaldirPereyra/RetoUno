@@ -5,4 +5,8 @@ La nube es uns red mundial de servidores que te permite almacenar y administrar 
 #### Ventajas de la nube
 * Confiabilidad
 * Escabilidad
+* Elasticidad
+* Agilidad
+* Distribución geográfica
+* Recuperación ante desastres
 ## Jose
