@@ -12,6 +12,18 @@ La nube es uns red mundial de servidores que te permite almacenar y administrar 
 * __Distribución geográfica__:
 * __Recuperación ante desastres__:
 
+## Modelos de servicio en la nube
+
+* IaaS: Este modelo de servicio en la nube es el más parecido a la administración de servidores físicos. Un proveedor de servicios en la nube mantiene actualizado el hardware, pero el mantenimiento del sistema operativo y la configuración de red es responsabilidad del inquilino de nube.
+
+* PaaS: Este modelo de servicio en la nube es un entorno de hospedaje administrado. El proveedor de servicios en la nube administra las máquinas virtuales y los recursos de red, y el inquilino de nube implementa sus aplicaciones en el entorno de hospedaje administrado. 
+
+* SaaS: En este modelo de servicio en la nube, el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones. El inquilino de nube solo necesita proporcionar sus datos a la aplicación administrada por el proveedor de servicios en la nube. 
+
+<p align="center">
+  <img align="" src="https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/iaas-paas-saas-expanded.png#lightbox"  alt="Azura Imágen"/>
+</p>
+
 ## Nube pública, privada e híbrida
 
 * Nube pública: Los servicios que se ofrecen a través de intertet están disponibles para cualquiera que desee adquirirlos. Los recursos de nube como los servidores y el almacenamiento son propiedad de un proveedor de servicios en la nube de terceros, que los explota y distribuye a través de Internet.
