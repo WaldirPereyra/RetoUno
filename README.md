@@ -10,7 +10,7 @@
 <p align="justify">La nube es una red mundial de servidores que te permite almacenar y administrar datos, ejecutar aplicaciones o proveer un conjunto de servicios informáticos a través de Internet (servidores, almacenamiento, base de datos, redes, software, análisis e inteligencia).</p>
 
 ### Ventajas de la nube
-<p align="justify">* __Confiabilidad__: La empresa (según el servicio que elija), se encarga de mantener el servicio de manera continua a pesar de que se produzcan errores.
+ __Confiabilidad__: La empresa (según el servicio que elija), se encarga de mantener el servicio de manera continua a pesar de que se produzcan errores.
 * __Escabilidad__: Te permite aumentar la capacidad conforme el sistema lo requiera.
 	* Vertical: Lo que normalmente supondría aumentar la capacidad de hardware (de un solo nodo), en este caso requeriría aumentar RAM o CPU adicionales a una maquina virtual.
 	* Horizontal: Escalar horizontalmente el sistema, implicaría agregar servidores (nodos) que trabajen como uno mismo, pero en este caso, solo sería necesario aumentar instancias de un recurso, como máquinas virtuales en la configuración.
@@ -18,7 +18,7 @@
 * __Agilidad__: Los recursos se pueden configurar rápidamente cuando cambian los requisitos de cualquier sistema.
 * __Distribución geográfica__: Por la distribución geográfica de los centros de datos, se tiene el mejor rendimiento en casi cualquier región.
 * __Recuperación ante desastres__: Al usar los servicios de copia de seguridad basados en la nube, la replicación de datos y la distribución geográfica, los datos de las aplicaciones se mantendrán seguros.
-</p>
+
 ## Modelos de servicio en la nube
 
 * IaaS: Este modelo de servicio en la nube es el más parecido a la administración de servidores físicos. Un proveedor de servicios en la nube mantiene actualizado el hardware, pero el mantenimiento del sistema operativo y la configuración de red es responsabilidad del inquilino de nube.
