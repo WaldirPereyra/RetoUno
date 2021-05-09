@@ -25,5 +25,17 @@ La nube es uns red mundial de servidores que te permite almacenar y administrar 
 </p>
 
 ### ¿Qué es Azure?
-<img src="https://www.abd.es/wp-content/uploads/2021/03/principal.png" width="350px" height="450px" alt="Azura Imágen"/>
-Es un conjunto de servicios en la nube que ayudan a las organizaciones a cumplir desafíos empresariales. Azure ofrece la libertad de compilar, administrar e implementar aplicaciones en una red global masiva mediante sus herramientas y plataformas favoritas.
+
+<img src="https://www.abd.es/wp-content/uploads/2021/03/principal.png" width="600px" height="315px" alt="Azure Imágen" style="margin-left: auto; margin-right: auto;" />
+
+Es un **conjunto de servicios** en la nube que **ayudan a las organizaciones** a cumplir desafíos empresariales. Azure ofrece la libertad de compilar, administrar e implementar aplicaciones en una red global masiva mediante sus herramientas y plataformas favoritas.
+
+- **Te prepara para el _futuro_**
+- **Permite operar en _entorno híbrido_ sin mayor problema**
+- **Genera _confianza_ para usar la nube**
+
+### ¿Qué puedo hacer con Azure? 
+
+Azure proporciona más de cien servicios que permiten hacer todo tipo de cosas: desde ejecutar las aplicaciones existentes en máquinas virtuales hasta explorar nuevos paradigmas de software, como bots inteligentes y realidad mixta.
+
+Azure proporciona servicios de inteligencia artificial y aprendizaje automático que pueden comunicarse naturalmente con los usuarios mediante la vista, el oído y la voz.
