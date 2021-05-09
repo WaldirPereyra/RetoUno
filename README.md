@@ -24,7 +24,7 @@ La nube es uns red mundial de servidores que te permite almacenar y administrar 
   <img align="" src="https://recursos.bps.com.es/files/853/82.png" width="300px" height="250px" alt="Azura Imágen"/>
 </p>
 
-### ¿Qué es Azure?
+## ¿Qué es Azure?
 
 <img src="https://www.abd.es/wp-content/uploads/2021/03/principal.png" width="600px" height="315px" alt="Azure Imágen" style="margin-left: auto; margin-right: auto;" />
 
