@@ -7,10 +7,10 @@ La nube es uns red mundial de servidores que te permite almacenar y administrar 
 * __Escabilidad__: Te permite aumentar la capacidad conforme el sistema lo requiera.
 	* Vertical: Lo que normalmente supondría aumentar la capacidad de hardware (de un solo nodo), en este caso requeriría aumentar RAM o CPU adicionales a una maquina virtual.
 	* Horizontal: Escalar horizontalmente el sistema, implicaría agregar servidores (nodos) que trabajen como uno mismo, pero en este caso, solo sería necesario aumentar instancias de un recurso, como máquinas virtuales en la configuración.
-* __Elasticidad__:
-* __Agilidad__:
-* __Distribución geográfica__:
-* __Recuperación ante desastres__:
+* __Elasticidad__: Se pueden configurar las aplicaciones en cualquier momento.
+* __Agilidad__: Los recursos se pueden configurar rápidamente cuando cambian los requisitos de cualquier sistema.
+* __Distribución geográfica__: Por la distribución geográfica de los centros de datos, se tiene el mejor rendimiento en casi cualquier región.
+* __Recuperación ante desastres__: Al usar los servicios de copia de seguridad basados en la nube, la replicación de datos y la distribución geográfica, los datos de las aplicaciones se mantendrán seguros.
 
 ## Modelos de servicio en la nube
 
